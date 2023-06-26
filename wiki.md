@@ -1,7 +1,7 @@
-# Topic Title
+# Semyung Kim github Wiki
 ![](https://gisgeography.com/wp-content/uploads/2014/07/What-Is-Geographic-Information-Systems-Featured-1265x727.jpg)
 
-
+This is a github wiki for my github repository of the course GEOG 328 at UW.
 A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
 
 
